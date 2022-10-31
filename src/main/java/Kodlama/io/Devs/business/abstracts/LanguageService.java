@@ -15,4 +15,6 @@ public interface LanguageService {
 	public void delete(int id);
 
 	public void update(ProgrammingLanguage language, int id);
+	
+	//AĞAĞAĞĞAĞAĞAĞAĞA
 }
